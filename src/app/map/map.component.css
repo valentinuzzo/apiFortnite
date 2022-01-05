@@ -1,0 +1,14 @@
+
+
+.bg{
+  /* Fixe l'image en haut à gauche de la page */
+  position: absolute;
+  top: 60px;
+  left: 0;
+  /* Préserve le ratio de l'image */
+  min-width: 100%;
+  min-height: 100%;
+  background-image: url(src/img/background.png);
+  font-family: "Burbank Small Black";
+  color: aliceblue;
+}
